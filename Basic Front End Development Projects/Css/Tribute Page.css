@@ -1,0 +1,59 @@
+.heading{
+  margin-left:6%;
+  text-align: center;
+}
+.h3{
+  margin-left: 5%;
+  text-align: center;
+}
+.caption {
+    display: block;
+
+}
+.img .imgtext{
+  padding: 9px;
+
+}
+.imgtext{
+
+  display: block;
+
+}
+.img{
+  display: block;
+  margin-left: 20%;
+  padding-right: 4%;
+  padding-top: 4%;
+  line-height: 1.42857143;
+
+}
+.text{
+  margin-left: 15%;
+  margin-right: 15%;
+
+}
+body{
+  margin-top: 4%;
+}
+.container{
+  background-color: #BDADAD;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.quote{
+  padding-left: 35px;
+}
+.links{
+  padding-left: 18%;
+  padding-top: 2%;
+}
+.footer{
+  text-align: center;
+  background-color: #BDADAD;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
