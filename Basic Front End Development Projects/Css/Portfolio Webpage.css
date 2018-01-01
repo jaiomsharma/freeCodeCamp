@@ -1,6 +1,7 @@
 body{
   padding-top: 10%;
   margin-top: 20%;
+  background: url("img/desk.jpg") no-repeat center center fixed;
 }
 .heading{
   font-family: Ostrich Sans;
